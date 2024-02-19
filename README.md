@@ -1,2 +1,3 @@
 # AirPollution452
 Air Quality Index Prediction Based on Deep Learning
+An air quality prediction system was used in this work. The data of Adarsh Rouniyar, Sapdo Utomo, John A, & Pao-Ann Hsiung. (2023). For offering  Air Pollution Dataset from India and Nepal. The dataset was subjected to the LSTM algorithm in this study. Some changes to the proposed methodology were implemented, which led to extraordinary results. The normalization process that was performed on the data set before its input into the model was one of these enhancements. Comparing this study to the others, a high degree of accuracy was found in the AQI prediction.  
